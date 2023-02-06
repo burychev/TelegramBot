@@ -1,0 +1,3 @@
+Very often people (especially programmers) have a problem with changing the keyboard layout in a timely manner.
+Most people do not have the skill of blind typing and start writing large text, forgetting that they did not change the keyboard layout to the right one before, and then they rewrite everything:(
+This bot translates text written with an English layout into the originally planned text with a Russian layout.
